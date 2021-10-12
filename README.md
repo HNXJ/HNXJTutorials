@@ -1,2 +1,3 @@
 # HNXJTutorials
-Some basic to adv tutorials by me
+
+Some various tutorials by me (May be incomplete)
